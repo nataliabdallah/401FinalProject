@@ -10,7 +10,7 @@
 - [Joe Gutmann](https://www.linkedin.com/in/joegutmann/)
 
 ### Project Objections
-- [Project Objection](PrimeTime-Objectives.md) by: [Brittney Powell](https://github.com/Bmjohnson87)
+- [Project Objection](PrimeTime-Objectives.md) by: [Brittany Powell](https://github.com/Bmjohnson87)
 
 
 ### Project Description
