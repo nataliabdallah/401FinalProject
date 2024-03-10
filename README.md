@@ -21,15 +21,13 @@
 
 
 ### Project Management Tools
-- Splunk
+- SPLUNK
 - AWS
 - SNORT
 - OpenVPN
 - CloudTrail/CloudWatch
 - Zeek(NIDS)
 
+### Other Repositories
 
-### Slide Deck
-
-
-### Topology
+- [Documentation](https://github.com/PRIME-TIME-Defense/Documentations)
