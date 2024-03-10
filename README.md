@@ -5,7 +5,7 @@
 
 ### Devs
 
-- [Scotty Jokon](www.linkedin.com/in/scottyjokon)
+- [Scotty Jokon](https://www.linkedin.com/in/scottyjokon/)
 - [Nathalie Abdallah](https://www.linkedin.com/in/nataliabdallah/)
 - [Brittany Powell](https://www.linkedin.com/in/brittanyjohnson1404/)
 - [Rodolofo Gonzalez](https://www.linkedin.com/in/rgonzo1355/)

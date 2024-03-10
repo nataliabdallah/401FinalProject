@@ -53,4 +53,4 @@ Tampering: Look for places where data is stored or transmitted and evaluate the 
 - Operationalize: Integrate your scripts into your regular monitoring and incident response processes. Ensure they run at regular intervals or trigger based on specific events.
 - Alerting Mechanism: Configure your scripts to send alerts through email, SMS, or a centralized incident response platform when they detect potential adversarial activity.
 
-Written by: - [Brittany Powell](https://github.com/Bmjohnson87)
+Written/Edited by: - [Brittany Powell](https://github.com/Bmjohnson87)
