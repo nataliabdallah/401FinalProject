@@ -1,4 +1,5 @@
-## BTO1: Initial Threat Model and STRIDE Analysis
+## BTO1: Initial Threat Model and STRIDE Analysis. 
+
 
 **Identify the System Components: Map out the components of your project, including assets, data flows, and processes. For a web application like SimCorp's, this includes the web server, application code, databases, and any external integrations.**
 
